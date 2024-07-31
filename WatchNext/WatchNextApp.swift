@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct WatchNextApp: App {
+    @StateObject private var movieListVM = MovieListViewModel()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MovieListView()
+                .environmentObject(movieListVM)
         }
     }
 }
