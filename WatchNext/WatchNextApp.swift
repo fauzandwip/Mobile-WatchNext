@@ -13,7 +13,7 @@ struct WatchNextApp: App {
     
     var body: some Scene {
         WindowGroup {
-            MovieListView()
+            ContentView()
                 .environmentObject(movieListVM)
         }
     }

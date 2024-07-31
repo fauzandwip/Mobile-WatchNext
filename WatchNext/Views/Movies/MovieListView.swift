@@ -51,7 +51,7 @@ struct MovieListView: View {
             .task {
                 await movieListVM.fetchMovies()
             }
-            .navigationTitle("Wishlist Movies")
+            .navigationTitle("WatchNext Movies")
             .searchable(text: $movieListVM.searchText, placement: .navigationBarDrawer(displayMode: .always),prompt: Text("search product"))
             .onChange(of: movieListVM.searchText) { value in
                 Task {

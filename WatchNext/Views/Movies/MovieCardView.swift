@@ -54,6 +54,7 @@ extension MovieCardView {
             
             Spacer()
             
+            // isWatched
             Image(systemName: movieDetailVM.isWatched ? "eye.slash.fill" : "eye.fill")
                 .padding(6)
                 .foregroundColor(movieDetailVM.isWatched ? .white : .black)
