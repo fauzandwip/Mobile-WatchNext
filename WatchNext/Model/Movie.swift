@@ -25,8 +25,7 @@ struct UpdateStatusBodyAPI: Encodable {
     var isWatched: Bool
 }
 
-struct Movie: Codable, Identifiable {
-    var id: Int
+struct MovieAddBodyAPI: Encodable {
     var title: String
     var overview: String
     var imageURL: String
@@ -34,7 +33,8 @@ struct Movie: Codable, Identifiable {
     var isWatched: Bool
 }
 
-struct MovieAddBodyAPI: Encodable {
+struct Movie: Codable, Identifiable {
+    var id: Int
     var title: String
     var overview: String
     var imageURL: String
