@@ -48,11 +48,11 @@ This following features of the app was made using Swift, SwiftUI with MVVM :
 ![screenshot_iPhone_10](screenshots/iPhone_10.png)
 ![screenshot_iPhone_11](screenshots/iPhone_11.png)
 
-<!-- # Video Recording
+# Demo Video
 
 ## iPhone
 
-![iPhone_gif](gif/iPhone_GIF.gif) -->
+![iPhone_gif](gif/iPhone_GIF.gif)
 
 # Tech Stack
 
@@ -60,7 +60,7 @@ This following features of the app was made using Swift, SwiftUI with MVVM :
 
 ## Instalation:
 
-- clone this repo, `git clone https://github.com/fauzandwip/Mobile-WatchNext.git`
+- clone this repo, `https://github.com/fauzandwip/Mobile-WatchNext.git`
 - double click file `WatchNext.xcodeproj`
 - choose iPhone simulator that you want, you can choose real device too
 - run the app by press the run app button or ```CMD + R```
