@@ -10,15 +10,19 @@ WatchNext
 <a href="https://www.linkedin.com/in/fauzandp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
+# WatchNext Backend
+
+[Backend Repository](https://github.com/fauzandwip/BE-WatchNext)
+
 # About App
 
 WatchNext is your ultimate iOS companion for managing your movie wishlist. Tired of forgetting which films you want to watch next? Drowning in a sea of streaming options? WatchNext brings order to your movie mayhem, offering:
 
-- ***Wishlist Creation***: Add all the must-see movies to your personalized wishlist.
-- ***Completion Tracking***: Mark movies as "watched" to keep track of your cinematic journey and avoid doubles.
-- ***Seamless Management***: Effortlessly add, remove, or update movie details in your wishlist for a dynamic and organized experience.
-- ***Deep Dive Details***: Dive into each film's overview, ratings, and captivating posters for informed decision-making.
-- ***Lightning-Fast Search***: Find that specific movie you've been eyeing in a flash with the intuitive search function.
+- **_Wishlist Creation_**: Add all the must-see movies to your personalized wishlist.
+- **_Completion Tracking_**: Mark movies as "watched" to keep track of your cinematic journey and avoid doubles.
+- **_Seamless Management_**: Effortlessly add, remove, or update movie details in your wishlist for a dynamic and organized experience.
+- **_Deep Dive Details_**: Dive into each film's overview, ratings, and captivating posters for informed decision-making.
+- **_Lightning-Fast Search_**: Find that specific movie you've been eyeing in a flash with the intuitive search function.
 
 # Features
 
@@ -63,4 +67,4 @@ This following features of the app was made using Swift, SwiftUI with MVVM :
 - clone this repo, `https://github.com/fauzandwip/Mobile-WatchNext.git`
 - double click file `WatchNext.xcodeproj`
 - choose iPhone simulator that you want, you can choose real device too
-- run the app by press the run app button or ```CMD + R```
+- run the app by press the run app button or `CMD + R`
